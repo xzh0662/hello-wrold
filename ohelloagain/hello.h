@@ -8,5 +8,9 @@
 #ifndef HELLO_H_
 #define HELLO_H_
 
+class hello
+{
+  
+};
 
 #endif /* HELLO_H_ */
