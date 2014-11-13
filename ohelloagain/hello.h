@@ -10,7 +10,7 @@
 
 class hello
 {
-  
+  int add;
 };
 
 #endif /* HELLO_H_ */
